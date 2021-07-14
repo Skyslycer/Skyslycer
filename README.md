@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/Skyslycer?template=terminal&config.timezone=Europe%2FBerlin)
 
 <!--
 **Skyslycer/Skyslycer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
