@@ -51,7 +51,7 @@
   <b>   18</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">skyslycer@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 35 repositories - 8.96 GB
--r--  <b>   11</b>  stargazers
+-r--  <b>   12</b>  stargazers
 -r--  <b>    3</b>  forks
 -r--  <b>   17</b>  watchers
 dr-x  <b>    0</b>  packages
