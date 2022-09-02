@@ -38,7 +38,7 @@
   followed by <b>5</b> users
 </div>
 <div class="stdin"><span class="ps1-path">skyslycer@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  394</b> commits
+  <b>  387</b> commits
   <b>    3</b> pull requests reviewed
   <b>   17</b> pull requests opened
   <b>   34</b> issues opened
