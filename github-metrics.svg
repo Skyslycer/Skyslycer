@@ -58,7 +58,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -308k +349k @@</span>
+<span class="diff">@@ -306k +351k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">skyslycer@metrics</span>:<span class="ps1-location">~</span># ls -lh github/gists</div><div class="stdout">Total 1 gist
 -r--  <b>    0</b>  stargazers
