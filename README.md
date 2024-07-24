@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 | I'm a very passionate full stack developer, who is always learning new programming languages and exploring new technologies.
+💡 | I'm a very passionate full stack developer, who is always learning new programming languages and exploring new technologies. \
 🌱 | Laravel, Svelte and Rust are languages I'm currently learning, descending in importance.\
 ✍️ | Other activities I like include UI/UX in Figma and 5V electronics and programming surrounding that.\
 💬 | If you want to reach out send a message to `hello`@`skyslycer.de`, or even better on Discord: `@skyslycer`! \
